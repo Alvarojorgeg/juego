@@ -1,13 +1,15 @@
-# juego_Disparos_Python
+# Juego de Disparos en Python
 
-Ejecutar el juego
+Proyecto simple de juego 2D desarrollado con **Pygame**, donde controlas un personaje que dispara y lucha contra enemigos.
 
-Para ejecutar el juego, asegúrate de tener pygame instalado:
+## Requisitos
 
+- Python 3
+- Pygame
 
+Instalación de dependencias:
+
+```bash
 pip install pygame
 
-Luego, simplemente ejecuta el archivo main.py:
-
-
-python main.py
+Para jugar pon python main.py y a jugar :))
